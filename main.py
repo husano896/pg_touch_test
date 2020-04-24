@@ -6,7 +6,7 @@ pg.init()
 pg.mixer.init()
 clock = pg.time.Clock()
 
-#snd_擠壓 = pg.mixer.Sound('1.wav')
+snd_擠壓 = pg.mixer.Sound('1.wav')
 snd_彩虹 = pg.mixer.Sound('2.wav')
 彩虹 = False
 
