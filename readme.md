@@ -1,5 +1,5 @@
 # Package requirements
-pygame >= 2.0.0dev5
+pygame >= 2.0.0dev6
 
 # To install package
 ```
